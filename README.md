@@ -24,3 +24,4 @@ We handled exceptions using try-except blocks to prevent the app from crashing i
 Overall, this task provided hands-on experience with REST APIs, data extraction, user interaction, and data visualization—skills crucial for data analysts, web developers, and Python programmers.
 
 OUTPUT:
+![Image](https://github.com/user-attachments/assets/3fd88381-4898-4b03-8cdd-a92745966f8c)
