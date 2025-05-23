@@ -13,6 +13,7 @@ DURATION: 4 WEEKS
 MENTOR: NELA SANTOSH
 
 DESCRIPTION:
+
 In Task 1, the primary goal is to integrate a public API into a Python application and visualize the retrieved data using popular visualization libraries such as matplotlib or seaborn. This task helps learners understand how APIs work, how to extract useful data from JSON responses, and how to represent that data visually to make it more meaningful and easier to interpret.
 
 We chose the OpenWeatherMap API for this project, which provides real-time weather data for any city. After signing up for a free API key, we used Python’s requests module to make HTTP GET requests to the API and receive data in JSON format. We parsed this data to extract useful fields like temperature, humidity, and pressure.
@@ -24,4 +25,5 @@ We handled exceptions using try-except blocks to prevent the app from crashing i
 Overall, this task provided hands-on experience with REST APIs, data extraction, user interaction, and data visualization—skills crucial for data analysts, web developers, and Python programmers.
 
 OUTPUT:
+
 ![Image](https://github.com/user-attachments/assets/3fd88381-4898-4b03-8cdd-a92745966f8c)
